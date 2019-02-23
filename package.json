@@ -1,14 +1,14 @@
 {
   "name": "react-ssr",
   "version": "0.1.0",
-  "description": "",
+  "description": "React Server Side Render Application (SSR)",
   "main": "server.js",
   "scripts": {
     "dev": "webpack --watch --mode development & nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Loai N Kanou",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
